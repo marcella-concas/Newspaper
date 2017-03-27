@@ -1,2 +1,0 @@
-# Newspaper-
-first exercise
